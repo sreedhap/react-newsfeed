@@ -1,0 +1,22 @@
+node_modules
+build
+dist/
+npm-debug.log
+testoutput
+
+# Idea
+*.iml
+*.ipr
+*.iws
+.idea
+.shelf
+
+# Vim
+*.swp
+*.un~
+
+# Node
+npm-debug.log
+
+# MacOS
+.DS_Store
