@@ -1,5 +1,5 @@
-import http from "http";
-import readline from "readline";
+let http = require("http");
+let readline = require("readline");
 
 let feed = [];
 
