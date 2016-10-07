@@ -23,7 +23,7 @@ This is an example code implementing a very simple client server react-app
 
 - Install deps => `npm install`
 - Run tests => `npm test`
-- Tests written using jasmine & React components tested using react-test-utils enzyme
+- Tests written using jasmine framework & React components tested using enzyme + jsdom
 - Generate app.js => Run `npm start`
 - Open "file:///<PROJECT_FOLDER>/with-flux/app/index.html
 - The feed from server should start appearing
